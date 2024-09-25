@@ -33,7 +33,8 @@ if ack:
 c.close()
 ```
 ## OUPUT - ARP
-![image](https://github.com/user-attachments/assets/26cb33fe-cb6e-40c6-ac1b-c136d09f7e01)
+![image](https://github.com/user-attachments/assets/0b55af97-0e31-4417-9bf4-a340b9ed2011)
+
 
 ## PROGRAM - RARP
 ```
@@ -47,7 +48,8 @@ while True:
 ```
 
 ## OUPUT -RARP
-![image](https://github.com/user-attachments/assets/076e8215-9c6f-4c08-838b-a7e06b0a2b4a)
+![image](https://github.com/user-attachments/assets/16a1f01d-e430-44b7-800b-8a72f828e451)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
